@@ -11,7 +11,7 @@ My First Repository
  |  Actor Name    |   Role  |
  | ---------- | ---------- |
  | Robert Downey Jr |  IronMan |
- | Chris Evans  Captain America |
+ | Chris Evans | Captain America |
  | Mark Rufallo | Hulk |
  | Chris Hemsworth | Thor | 
  | Scarlett Johansson | Black Widow | 
