@@ -29,7 +29,8 @@ Avengers Endgame is the epic conclusion to the Infinity Saga, where the remainin
  Anthony Mackie | Falcon 
 ------------------------------------
  Tom Hiddleston | Loki 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 The film masterfully balances epic action sequences with heartfelt character moments, as our beloved heroes grapple with loss, grief, and the weight of their responsibilities. Through time travel and strategic planning, the Avengers assemble once more to confront Thanos and his army. [^1]    
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [^1]: This is the footnote.
