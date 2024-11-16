@@ -9,6 +9,7 @@ My First Repository
 ---
 ## Actor Names and Role       
  |  Actor Name    |   Role  |
+ | ---------- | ---------- |
  | Robert Downey Jr |  IronMan |
  | Chris Evans  Captain America |
  | Mark Rufallo | Hulk |
