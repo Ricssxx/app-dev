@@ -2,10 +2,10 @@
 My First Repository
 # Movie Title
 ## Avengers Endgame
- # Avengers EndGame became my favorite movie because of the plot twist of story that i can't imagine. | The time travel plot was mind-blowing, and the final battle was insane! Seeing all the heroes together one last time was so nostalgic. Though, I'm still not over Iron Man's sacrifice. 
+ Avengers EndGame became my favorite movie because of the plot twist of story that i can't imagine. | The time travel plot was mind-blowing, and the final battle was insane! Seeing all the heroes together one last time was so nostalgic. Though, I'm still not over Iron Man's sacrifice. 
 ---
 ## Overview 
-# Avengers Endgame is the epic conclusion to the Infinity Saga, where the remaining Avengers unite to undo Thanos' devastating act. Through time travel and strategic planning, they embark on a dangerous mission to collect the Infinity Stones and reverse the devastating snap. The film delivers a powerful blend of action, emotion, and sacrifice, build up into a bittersweet ending that marks the end of an era and the beginning of a new one.
+ Avengers Endgame is the epic conclusion to the Infinity Saga, where the remaining Avengers unite to undo Thanos' devastating act. Through time travel and strategic planning, they embark on a dangerous mission to collect the Infinity Stones and reverse the devastating snap. The film delivers a powerful blend of action, emotion, and sacrifice, build up into a bittersweet ending that marks the end of an era and the beginning of a new one.
 ---
 ## Actor Names and Role       
  |  Actor Name    |   Role  |
